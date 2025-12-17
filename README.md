@@ -76,8 +76,9 @@ Guest Behavior
 - Perform customer segmentation for targeted marketing
 - Forecast demand using time-series models
 
-# Author
-BuiltbyAmiee
-
 ## Dashboard View
 ![Dashboard]()
+
+
+# Author
+BuiltbyAmiee
