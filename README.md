@@ -77,8 +77,10 @@ Guest Behavior
 - Forecast demand using time-series models
 
 ## Dashboard View
-![Dashboard]()
-
+![Dashboard](https://github.com/amieecode/hotel-operations-analysis/blob/main/Images/Elite%20Hotel%201.png)
+![Dashboard](https://github.com/amieecode/hotel-operations-analysis/blob/main/Images/Elite%20Hotel%202.png)
+![Dashboard](https://github.com/amieecode/hotel-operations-analysis/blob/main/Images/Elite%20Hotel%203.png)
+![Dashboard](https://github.com/amieecode/hotel-operations-analysis/blob/main/Images/Elite%20Hotel%204.png)
 
 # Author
 BuiltbyAmiee
